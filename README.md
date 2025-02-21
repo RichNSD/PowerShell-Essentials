@@ -13,6 +13,3 @@ Some basic scripts and profile customizations that everyone should try.
 </details>
 
 
-```bash
-/Users/rjoubert/Documents/Dev/Projects/RichNSD/PowerShell-Essentials/scripts
-```
