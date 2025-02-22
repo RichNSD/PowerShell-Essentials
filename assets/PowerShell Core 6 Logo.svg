@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2048 1550" style="enable-background:new 0 0 2048 1550;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#B0C4D6;}
+	.st3{fill:none;stroke:#274A7D;stroke-width:169.1912;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	
+		.st4{opacity:0.9686;fill:none;stroke:#FFFFFF;stroke-width:161.7891;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#274A7D;stroke-width:179.7657;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#FFFFFF;stroke-width:179.7657;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:url(#SVGID_2_);}
+	.st8{fill:none;stroke:#274A7D;stroke-width:169.021;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	
+		.st9{opacity:0.9686;fill:none;stroke:#FFFFFF;stroke-width:161.6263;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#274A7D;stroke-width:179.5848;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#FFFFFF;stroke-width:179.5848;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Original" class="st0">
+</g>
+<g id="Pwsh_Core_6_Icon">
+</g>
+<g id="Pwsh_Core_6_Logo">
+	<g>
+		<g id="Background_1_">
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="360.5162" y1="161.3106" x2="1754.4772" y2="1450.6564">
+				<stop  offset="0" style="stop-color:#2D4664"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</linearGradient>
+			<path class="st1" d="M105.65,1527.46c-24.22,0-46.81-10.84-61.96-29.75c-15.15-18.91-20.82-43.31-15.54-66.96L322.3,112.55
+				c5.68-25.44,20.01-48.43,40.35-64.73c20.34-16.3,45.9-25.28,71.97-25.28h1507.72c24.33,0,46.98,10.92,62.13,29.96
+				c15.15,19.04,20.72,43.56,15.26,67.27l-302.02,1312.87c-5.8,25.2-20.11,47.96-40.31,64.1c-20.2,16.14-45.56,25.08-71.41,25.18
+				L105.65,1527.46z"/>
+			<path class="st2" d="M1942.34,32.57c21.26,0,41.04,9.54,54.28,26.17c13.24,16.63,18.1,38.05,13.33,58.77l-302.02,1312.87
+				c-5.29,23-18.36,43.78-36.79,58.51s-41.58,22.89-65.18,22.98l-1500.02,5.56l-0.29,0c-21.16,0-40.89-9.47-54.13-25.99
+				c-13.24-16.52-18.18-37.84-13.57-58.5L332.1,114.73c5.18-23.22,18.26-44.21,36.83-59.09c18.57-14.88,41.9-23.07,65.69-23.07
+				H1942.34 M1942.34,12.5H434.62c-58.6,0-109.34,40.67-122.11,97.86L18.35,1428.56c-12.48,55.91,30.07,108.94,87.3,108.94
+				c0.11,0,0.23,0,0.34,0l1500.04-5.56c58.12-0.22,108.43-40.42,121.46-97.06l302.02-1312.87
+				C2042.41,65.97,1999.84,12.5,1942.34,12.5L1942.34,12.5z"/>
+		</g>
+		<g id="Underscore_1_">
+			<line id="Underscore__x28_B_x29__1_" class="st8" x1="1032.54" y1="1242.3" x2="1388.95" y2="1242.3"/>
+			<line id="Underscore__x28_W_x29__2_" class="st9" x1="1011.32" y1="1230.68" x2="1378.39" y2="1230.68"/>
+		</g>
+		<g id="Arrow_1_">
+			<polyline id="Arrow__x28_Blue_Offset_x29__1_" class="st10" points="495.44,1268.64 1193.49,764.56 735.81,282.45 			"/>
+			<polyline id="Arrow__x28_White_x29__2_" class="st11" points="479.59,1251.74 1177.64,747.66 719.97,265.55 			"/>
+		</g>
+	</g>
+</g>
+</svg>
