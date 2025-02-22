@@ -1,9 +1,9 @@
 # PowerShell Essentials
 Some basic scripts and profile customizations that everyone should try.
 
-> **Note** This repository is a work in progress. I will be adding more scripts and customizations as I go.
+> :information_source: **Note:** This repository is a work in progress. I will be adding more scripts and customizations as I go.
 
-> **Note** DISCLAIMER While I am experienced and knowledgeable in PowerShell, I am not an expert. I am always learning and improving. If you see something that could be done better, please let me know.
+> :warning: **DISCLAIMER:** While I am experienced and knowledgeable in PowerShell, I am not an expert. I am always learning and improving. If you see something that could be done better, please let me know.
 
 <details>
 <summary><h3 style="display: inline">Table of Contents</h3></summary>
@@ -15,6 +15,8 @@ Some basic scripts and profile customizations that everyone should try.
 	- Profile Functions
 
 </details>
+
+
 
 <br />
 
